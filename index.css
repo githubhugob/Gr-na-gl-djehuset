@@ -1,0 +1,134 @@
+
+body{
+    background-image: url(image.png);
+
+}
+
+#body2{
+    background-image: url(natur3.jpg);
+    background-repeat: no-repeat;
+    background-size: 1300px 650px;
+}
+
+h2{
+    margin-left:420px;
+    font-size:22px;
+    margin-top:px;
+}
+#Streck{
+    font-size:18px;
+    width:1263px;
+    height:50px;
+    background-color:rgb(35, 43, 91);
+    margin-top:40px;
+    text-align:center;
+}
+
+
+
+#Box{
+    background-color:#E6EAC1;
+    width:158px;
+    height: 20px;
+    margin-left:420px;
+    margin-top:10px;
+}
+
+#Kontaktinfo{
+    background-color:#E6EAC1;
+    width:190px;
+    height:20px;
+    position:absolute;top:329px; left:620px;
+
+}
+
+#Titel{
+    margin-top: 250px;
+    margin-left: 320px;
+    font-size:40px;
+    font-family: serif;
+    color:#E6EAC1;
+}
+
+#Låda{
+    background-color:lightskyblue;
+    width:500px;
+    height:296px;
+    margin-left:25px;
+    margin-top:80px;
+    border-style:solid;
+    border-width:3px;
+}
+
+#Låda2{
+    background-color:lightskyblue;
+    width:500px;
+    height:390px;
+    margin-left:25px;
+    margin-top:80px;
+    border-style:solid;
+    border-width:3px;
+}
+#Låda3{
+    background-color:lightskyblue;
+    width:500px;
+    height:500px;
+    margin-left:25px;
+    margin-top:80px;
+    border-style:solid;
+    border-width:3px;
+}
+
+#LådaA{
+    position:absolute; top:212.5px; left:538px;
+    width:300px;
+    height:296px;
+    background-color:lightskyblue;
+    border-style:solid;
+    border-width:3px;
+}
+
+#Låda2A{
+    position:absolute; top:594px; left:538px;
+    width:300px;
+    height:390px;
+    background-color:lightskyblue;
+    border-style:solid;
+    border-width:3px;
+}
+
+#Låda3A{
+    position:absolute; top:1069px; left:538px;
+    width:300px;
+    height:500px;
+    background-color:lightskyblue;
+    border-style:solid;
+    border-width:3px;
+}
+
+#mjöl{
+    width:500px;
+}
+
+#broccoli{
+    width:500px;
+    height:390px;
+}
+
+#kantarell{
+    width:500px;
+    height:500px;
+}
+
+#Påminnelse{
+    position:absolute; top:80px; right:30px;
+    width:190px;
+    height:150px;
+    background-color:rgb(35, 43, 91);
+}
+
+#Hemknapp{
+    position:absolute;top:55px; left:15px;
+}
+
+
